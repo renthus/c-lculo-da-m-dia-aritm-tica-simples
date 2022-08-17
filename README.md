@@ -1,4 +1,4 @@
-# Cálculo da Média
+# Cálculo da Média Aritmética Simples
 
 <p>
    <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
@@ -35,7 +35,7 @@ Este projeto é para aprendizado dos fundamentos do JavaScript.
 
 ## Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto](https://github.com/renthus/inbound-marketing).
+Você pode [acessar o código fonte do projeto](https://github.com/renthus/calculo-da-media-aritmetica-simples).
 
 ## Desenvolvedores
 | [<img src="https://avatars.githubusercontent.com/u/49447595?v=4" width=115><br><sub>Renato Maldonado</sub>](https://github.com/renthus)
